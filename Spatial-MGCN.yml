@@ -1,4 +1,4 @@
-name: Spatial
+name: Spatial-MGCN
 channels:
   - conda-forge
   - defaults
